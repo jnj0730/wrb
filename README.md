@@ -38,7 +38,8 @@
 * kmbfamily,주영,xenoteam
 
 ## 지원
-* 공식홈페이지 : http://www.kmbfamily.net/software
+* 공식홈페이지 : http://www.kmbfamily.net
+* 상세안내 및 사용법 : http://www.kmbfamily.net/software/413
 * 카카오톡 문의 : https://open.kakao.com/o/gYfBp3w
 
 ## 라이선스
